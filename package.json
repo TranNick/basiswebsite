@@ -1,0 +1,31 @@
+{
+  "name": "test-site",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "firebase": "^5.4.2",
+    "history": "^4.7.2",
+    "immutable": "^3.8.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-dropzone": "^5.1.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.1.5",
+    "react-spinners": "^0.4.5",
+    "reactstrap": "^6.4.0",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "set PORT=8080 && react-scripts start",
+    "build": "react-scripts build",
+    "test2": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

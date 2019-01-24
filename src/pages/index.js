@@ -1,0 +1,6 @@
+export { default as App } from './App'
+export { default as Test } from './test'
+export { default as Homepage } from './Homepage'
+export { default as Register } from './Register'
+export { default as Profile } from './Profile'
+export { default as Account } from './Account'
